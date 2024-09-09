@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jerrie",
+        "last_name": "Clemanceau",
+        "email": "jclemanceau0@wikipedia.org",
+        "gender": "Female",
+        "salary": "10000"
+    },
+    {
+        "id": 2,
+        "first_name": "Nathanael",
+        "last_name": "Suter",
+        "email": "nsuter1@macromedia.com",
+        "gender": "Male",
+        "salary":"15000"
+    },
+    {
+        "id": 3,
+        "first_name": "Stephani",
+        "last_name": "Petrolli",
+        "email": "spetrolli2@macromedia.com",
+        "gender": "Female",
+        "salary": "20000"
+    },
+    {
+        "id": 4,
+        "first_name": "Anstice",
+        "last_name": "MacTague",
+        "email": "amactague3@yelp.com",
+        "gender": "Female",
+        "salary": "25000"
+    },
+    {
+        "id": 5,
+        "first_name": "Bibbye",
+        "last_name": "Naisbet",
+        "email": "bnaisbet4@wikia.com",
+        "gender": "Female",
+        "salary": "30000"
+    },
+    {
+        "id": 6,
+        "first_name": "Billi",
+        "last_name": "Doel",
+        "email": "bdoel5@blogs.com",
+        "gender": "Female",
+        "salary": "35000"
+    },
+    {
+        "id": 7,
+        "first_name": "Isaiah",
+        "last_name": "Brandreth",
+        "email": "ibrandreth6@ifeng.com",
+        "gender": "Male",
+        "salary": "25000"
+    },
+    {
+        "id": 8,
+        "first_name": "Erasmus",
+        "last_name": "Lanchberry",
+        "email": "elanchberry7@springer.com",
+        "gender": "Male",
+        "salary": "30000"
+    },
+    {
+        "id": 9,
+        "first_name": "Romola",
+        "last_name": "Cowderay",
+        "email": "rcowderay8@theatlantic.com",
+        "gender": "Female",
+        "salary":"35000"
+    },
+    {
+        "id": 10,
+        "first_name": "Darbie",
+        "last_name": "Abbyss",
+        "email": "dabbyss9@dion.ne.jp",
+        "gender": "Female",
+        "salary":"15000"
+    }
+]
